@@ -1,0 +1,47 @@
+317 
+ABNT20 KNHC 042048
+TWOAT 
+
+Special Tropical Weather Outlook
+NWS National Hurricane Center Miami FL
+450 PM EDT Tue Oct 4 2022
+
+For the North Atlantic...Caribbean Sea and the Gulf of Mexico:
+
+The National Hurricane Center has initiated advisories on Tropical 
+Depression Twelve, located a few hundred miles west of the Cabo 
+Verde Islands.
+
+East of the Windward Islands:
+Updated:  Data from an Air Force Reserve Hurricane Hunter aircraft 
+indicate that the broad area of low pressure located a couple of 
+hundred miles east of the Windward Islands does not have a closed 
+circulation and the center remains ill defined.  In addition, the 
+associated shower and thunderstorm activity is still displaced to 
+the southeast of the center.  Upper-level winds are likely to 
+become more conducive for development, and a tropical depression 
+could form during the next couple of days, if the system stays far 
+enough away from land while moving westward at about 15 mph across 
+the Windward Islands and southeastern Caribbean Sea.  Conditions 
+are forecast to become more conducive for development later this 
+week when the system reaches the central and western Caribbean Sea. 
+Regardless of development, heavy rainfall with localized flooding, 
+as well as gusty winds, are expected over portions of the 
+Windward Islands, northern portions of South America, and the ABC 
+Islands during the next couple of days, and interests in those 
+locations should continue to monitor the progress of this system.
+* Formation chance through 48 hours...medium...40 percent.
+* Formation chance through 5 days...high...70 percent.
+
+&&
+
+Key messages for the disturbance east of the Windward Islands can be 
+found on the National Hurricane Center website at www.hurricanes.gov
+
+Public Advisories on Tropical Depression Twelve are issued under 
+WMO header WTNT32 KNHC and under AWIPS header MIATCPAT4.
+Forecast/Advisories on Tropical Depression Twelve are issued under 
+WMO header WTNT22 KNHC and under AWIPS header MIATCMAT2.
+
+$$
+Forecaster Berg

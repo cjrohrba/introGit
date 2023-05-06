@@ -1,0 +1,51 @@
+881 
+ACCA62 TJSJ 042054
+TWOSPN
+
+Perspectiva Especial sobre las Condiciones del Tiempo en el Trpico
+Centro Nacional de Huracanes del SNM Miami FL
+Traduccin por el SNM San Juan PR 
+450 PM EDT martes 4 de octubre de 2022
+
+Para el Atlntico Norte... Mar Caribe y el Golfo de Mxico:
+
+El Centro Nacional de Huracanes ha iniciado advertencias sobre la 
+Depresin Tropical Doce, localizado a varios cientos de millas al 
+oeste de las Islas de Cabo Verde.
+
+Este de las Islas de Barlovento: Actualizacin: Datos de un avin 
+cazahuracanes de la Reserva de la Fuerza Area indican que el rea 
+amplia de baja presin localizada a varios cientos de millas al este 
+de las Islas de Barlovento no tiene una circulacin cerrada y el 
+centro sigue pobremente definido. Adems, la actividad de aguaceros 
+y tormentas elctricas asociada sigue estando desplazada al sureste 
+del centro.  Es probable que los vientos en los niveles altos sean 
+ms conducentes para el desarrollo, y una depresin tropical podra 
+formarse durante los prximos das, si el sistema permanece lo 
+suficientemente lejos de la tierra mientras se mueva hacia el oeste 
+en alrededor de 15 mph a travs de las Islas de Barlovento y el 
+sureste del Mar Caribe. Se pronostica que las condiciones se tornen 
+ms conducentes para el desarrollo a finales de esta semana cuando 
+el sistema alcance el centro y el oeste del Mar Caribe. 
+Independientemente del desarrollo, se esperan fuertes lluvias con 
+inundaciones localizadas, as como vientos en rfaga, en partes de 
+las Islas de Barlovento, las partes del norte de Sudamrica y las 
+Islas de la ABC durante los prximos das, y los intereses en esos 
+lugares deben seguir monitoreando el progreso de este sistema.
+ Probabilidad de formacin en 48 horas...mediana...40 por ciento.
+ Probabilidad de formacin en 5 das...alta...70 por ciento.
+
+&&
+
+Los mensajes claves para la perturbacin al este de las Islas de 
+Barlovento pueden encontrarse en el sitio web del Centro Nacional de 
+Huracanes en www.hurricanes.gov
+
+Advertencias pblicas en la Depresin Tropical Doce se publican bajo 
+el encabezado de la OMM WTNT32 KNHC y bajo el encabezado MIATCPAT4 
+de AWIPS. Pronsticos o Advertencias sobre la Depresin Tropical 
+Doce se publican bajo los encabezados de la OMM WTNT22 KNHC y bajo 
+los encabezados MIATCMAT2 de AWIPS.
+
+$$
+Pronosticador Berg

@@ -1,0 +1,156 @@
+WHUS71 KOKX 221105
+MWWOKX
+
+URGENT - MARINE WEATHER MESSAGE
+National Weather Service New York NY
+705 AM EDT Sat Apr 22 2023
+
+ANZ331-335-222200-
+/O.EXB.KOKX.SC.Y.0059.230422T1105Z-230422T2200Z/
+Long Island Sound East of New Haven CT/Port Jefferson NY to the
+Mouth of the Connecticut River-
+Long Island Sound West of New Haven CT/Port Jefferson NY-
+705 AM EDT Sat Apr 22 2023
+
+...SMALL CRAFT ADVISORY IN EFFECT UNTIL 6 PM EDT THIS EVENING...
+
+* WHAT...East winds around 15 kt with gusts up to 25 kt. 
+
+* WHERE...Long Island Sound west of the Orient Point and the 
+  Connecticut River.
+
+* WHEN...Until 6 PM EDT this evening.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+* ADDITIONAL DETAILS...A Marine Dense Fog Advisory may also
+  eventually be needed for late today into tonight. 
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&&
+
+$$
+
+ANZ332-230015-
+/O.EXT.KOKX.SC.Y.0059.230422T1105Z-230423T1000Z/
+Long Island Sound East of the Mouth of the Connecticut River-
+705 AM EDT Sat Apr 22 2023
+
+...SMALL CRAFT ADVISORY NOW IN EFFECT UNTIL 6 AM EDT SUNDAY...
+
+* WHAT...East winds 15 to 20 kt with gusts up to 25 kt and seas 
+  3 to 5 ft.
+
+* WHERE...Long Island Sound east of Orient Point and the 
+  Connecticut River.
+
+* WHEN...Until 6 AM EDT Sunday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+* ADDITIONAL DETAILS...A Marine Dense Fog Advisory may also
+  eventually be needed for late today into tonight. 
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&&
+
+$$
+
+ANZ350-230015-
+/O.EXT.KOKX.SC.Y.0059.230422T1105Z-230424T0400Z/
+Moriches Inlet NY to Montauk Point NY out 20 nm-
+705 AM EDT Sat Apr 22 2023
+
+...SMALL CRAFT ADVISORY NOW IN EFFECT UNTIL MIDNIGHT EDT SUNDAY
+NIGHT...
+
+* WHAT...Southeast winds 15 to 20 kt with gusts up to 25 kt and 
+  seas 4 to 6 ft.
+
+* WHERE...Moriches Inlet NY to Montauk Point NY out 20 nm.
+
+* WHEN...Until midnight EDT Sunday night.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+* ADDITIONAL DETAILS...A Marine Dense Fog Advisory may also
+  eventually be needed for later today into tonight. 
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&&
+
+$$
+
+ANZ353-230015-
+/O.CON.KOKX.SC.Y.0059.230422T2200Z-230424T0400Z/
+Fire Island Inlet NY to Moriches Inlet NY out 20 nm-
+705 AM EDT Sat Apr 22 2023
+
+...SMALL CRAFT ADVISORY REMAINS IN EFFECT FROM 6 PM THIS EVENING
+TO MIDNIGHT EDT SUNDAY NIGHT...
+
+* WHAT...South winds 15 to 20 kt with gusts up to 25 kt and seas 
+  4 to 5 ft expected.
+
+* WHERE...Fire Island Inlet NY to Moriches Inlet NY out 20 nm.
+
+* WHEN...From 6 PM this evening to midnight EDT Sunday night.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+* ADDITIONAL DETAILS...A Marine Dense Fog Advisory may also
+  eventually be needed for late today into tonight. 
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&&
+
+$$
+
+ANZ355-230015-
+/O.CON.KOKX.SC.Y.0059.230422T2200Z-230423T1000Z/
+Sandy Hook NJ to Fire Island Inlet NY out 20 nm-
+705 AM EDT Sat Apr 22 2023
+
+...SMALL CRAFT ADVISORY REMAINS IN EFFECT FROM 6 PM THIS EVENING
+TO 6 AM EDT SUNDAY...
+
+* WHAT...Southeast winds 15 to 20 kt with gusts up to 25 kt and 
+  seas 3 to 5 ft expected.
+
+* WHERE...Sandy Hook NJ to Fire Island Inlet NY out 20 nm.
+
+* WHEN...From 6 PM this evening to 6 AM EDT Sunday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+* ADDITIONAL DETAILS...A Marine Dense Fog Advisory may also
+  eventually be needed for late today into tonight. 
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&&
+
+$$
+
+For more details, see the Coastal Waters Forecast from 
+National Weather Service New York NY, or visit
+https://www.weather.gov/okx/marine

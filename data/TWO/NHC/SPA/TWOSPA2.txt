@@ -1,0 +1,50 @@
+Perspectiva Especial sobre las Condiciones del Tiempo en el Trópico
+Centro Nacional de Huracanes del NWS Miami FL
+1005 AM EST lunes 16 de enero de 2023
+
+Para el Atlántico Norte...Mar Caribe y Golfo de México:
+
+Perspectiva Especial sobre las Condiciones del Tiempo en el Trópico
+emitido para discutir el potencial de desarrollo subtropical esta
+semana sobre el centro del Atlántico.
+
+Noroeste del Atlántico: Un sistema de baja presión no tropical
+centralizado sobre el noroeste del Océano Atlántico a unas 300
+millas al norte de Bermuda está produciendo vientos con fuerza de 
+Aunque el ciclón está produciendo algo de actividad de tormenta
+eléctricas cerca del centro, está incrustado en una masa de aire
+frío con áreas frontales cercanas. Se espera que la baja presión se
+mueva hacia el noreste hoy y hacia el norte esta noche, trayendo el
+sistema sobre aguas más frías y a través del Atlántico de Canadá
+temprano el martes. Por lo tanto, es improbable que la baja presión
+se convierta en un ciclón subtropical o tropical. Sin embargo, se
+espera que el sistema permanezca como una baja presión fuerte no
+tropical durante el próximo día o más, e información adicional,
+incluyendo avisos de vientos con fuerza de tormenta, se puede
+encontrar en los Pronósticos de Alta Mar emitidos por el Servicio
+Nacional de Meteorología.
+
+No se han programado perspectivas especiales adicionales sobre las
+Condiciones del Tiempo en el Trópico. Perspectivas sobre las
+Condiciones del Tiempo en el Trópico regulares reiniciarán el 15 de
+mayo de 2023, mientras que Perspectivas Especiales sobre las
+Condiciones del Tiempo en el Trópico serán emitidas de ser necesario
+fuera de temporada.
+* Probabilidad de formación en 48 horas...baja...cerca de 0 por
+ciento.
+* Probabilidad de formación en 5 días...baja...cerca de 0 por ciento.
+
+&&
+Pronósticos de Alta Mar emitidos por el Servicio Nacional de
+Meteorología se pueden encontrar bajo el encabezado NFDHSFAT1 en
+AWIPS, encabezado FZNT01 en OMM y disponibles en la web en
+ocean.weather.gov/shtml/NFDHSFAT1.php
+
+$$
+Pronosticador Cangialosi
+
+*** Este producto ha sido procesado automáticamente utilizando un
+programa de traducción y puede contener omisiones y errores. El
+Servicio Nacional de Meteorología no puede garantizar la
+precisión del texto convertido. De haber alguna duda, el texto en
+inglés es siempre la versión autorizada. ***

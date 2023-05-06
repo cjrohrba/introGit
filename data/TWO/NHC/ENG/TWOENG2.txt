@@ -1,0 +1,38 @@
+Special Tropical Weather Outlook
+NWS National Hurricane Center Miami FL
+1005 AM EST Mon Jan 16 2023
+
+For the North Atlantic...Caribbean Sea and the Gulf of Mexico:
+
+Special Tropical Weather Outlook issued to discuss the potential for 
+subtropical development over the northwest Atlantic.
+
+Northwestern Atlantic:
+A non-tropical low pressure system centered over the northwestern 
+Atlantic Ocean about 300 miles north of Bermuda is producing 
+storm-force winds.  Although the cyclone is producing some 
+thunderstorm activity near the center, it is embedded in a cold air 
+mass with nearby frontal boundaries.  The low is expected to move 
+northeastward today and northward tonight, bringing the system over 
+much colder waters and across Atlantic Canada by early Tuesday.  
+Therefore, it is unlikely that the low will transition to a 
+subtropical or tropical cyclone.  Nevertheless, the system is 
+expected to remain a strong non-tropical low during the next day or 
+so, and additional information, including storm-force wind warnings, 
+can be found in High Seas Forecasts issued by the National Weather 
+Service.  
+
+No additional Special Tropical Weather Outlooks are scheduled for 
+this system.  Regularly scheduled Tropical Weather Outlooks will 
+resume on May 15, 2023, while Special Tropical Weather Outlooks will 
+be issued as necessary during the off-season. 
+* Formation chance through 48 hours...low...near 0 percent.
+* Formation chance through 5 days...low...near 0 percent.
+
+&&
+High Seas Forecasts issued by the National Weather Service can be 
+found under AWIPS header NFDHSFAT1, WMO header FZNT01 KWBC, and 
+online at ocean.weather.gov/shtml/NFDHSFAT1.php
+
+$$
+Forecaster Cangialosi
